@@ -14,6 +14,6 @@ This project contains a minimal Node.js server that serves a static page with an
 ## Project Structure
 - `index.js` – simple HTTP server
 - `public/index.html` – form and result display
-- `public/style.css` – pastel styling
+- `public/style.css` – styles inspired by the Infracommerce website
 - `public/main.js` – client-side validation and fetch logic
 
